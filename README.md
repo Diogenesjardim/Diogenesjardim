@@ -11,7 +11,7 @@
 ![DigaoJardim GitHub stats](https://github-readme-stats.vercel.app/api?username=DigaoJardim&show_icons=true&theme=merko)
 
 
-## Tecnologias que uso no meu dia 
+## Tecnologias que uso no meu dia-a-dia 
 
 <div style="display: inline_block"><br/>
    <img align="center"  alt="htm" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
